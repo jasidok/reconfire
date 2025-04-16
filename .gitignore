@@ -1,0 +1,14 @@
+# sensitive bounty platform data
+data/*.json
+data/domains.txt
+data/wildcards.txt
+outputs/
+chunks/
+queue/
+venv/
+__pycache__/
+*.tmp
+
+venv/
+__pycache__/
+*.pyc
